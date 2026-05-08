@@ -1,9 +1,9 @@
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<h1>Привет, Меня зовут <a href="" >Сабина Касумова</a></h1>
-<h3><i>junior Frontend разработчик</i></h3>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" height="5">
+<h1>Привет, Меня зовут <a href="" >Сабина</a></h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A38DF7&width=435&lines=junior+Frontend+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;%D0%BB%D1%8E%D0%B1%D0%BB%D1%8E+%D0%B8%D0%B7%D1%83%D1%87%D0%B0%D1%82%D1%8C+%D1%87%D1%82%D0%BE-%D1%82%D0%BE+%D0%BD%D0%BE%D0%B2%D0%BE%D0%B5" alt="Typing SVG" /></a>
 
 <h2>
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35"/>
+  <img src="https://media.tenor.com/ixg0iUMoBZAAAAAj/cat-bongo.gif" width="35">
   &nbsp;Обо мне
 </h2>
 
